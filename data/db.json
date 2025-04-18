@@ -1,0 +1,967 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "isbn": "12345",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": "2",
+      "isbn": "67890",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": "3",
+      "isbn": "54321",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "author": "J.K. Rowling"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "email": "test@example.com",
+      "password": "test123"
+    },
+    {
+      "id": "3",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "4",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "5",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "6",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "7",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "8",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "9",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "10",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "11",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "12",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "13",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "14",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "15",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "16",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "17",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "18",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "19",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "20",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "21",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "22",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "23",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "24",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "25",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "26",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "27",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "28",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "29",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "30",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "31",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "32",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "33",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "34",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "35",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "36",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "37",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "38",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "39",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "40",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "41",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "42",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "43",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "44",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "45",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "46",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "47",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "48",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "49",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "50",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "51",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "52",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "53",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "54",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "55",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "56",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "57",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "58",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "59",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "60",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "61",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "62",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "63",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "64",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "65",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "66",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "67",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "68",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "69",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "70",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "71",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "72",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "73",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "74",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "75",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "76",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "77",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "78",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "79",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "80",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "81",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "82",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "83",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "84",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "85",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "86",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "87",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "88",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "89",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "90",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "91",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "92",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "93",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "94",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "95",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "96",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "97",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "98",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "99",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "100",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "101",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "102",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "103",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "104",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "105",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "106",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "107",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "108",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "109",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "110",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "111",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "112",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "113",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "114",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "115",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "116",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "117",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "118",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "119",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "120",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "121",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "122",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "123",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "124",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "125",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "126",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "127",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "128",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "129",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "130",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "131",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "132",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "133",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "134",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "135",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "136",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "137",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "138",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "139",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "140",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "141",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "142",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "143",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "144",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "145",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "146",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "147",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "148",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "149",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "150",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "151",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "152",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "153",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "154",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "155",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "156",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "157",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "158",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "159",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "160",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "161",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "162",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "163",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "164",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "165",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "166",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "167",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "168",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "169",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "170",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "171",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "172",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "173",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "174",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "175",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "176",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "177",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "178",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "179",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "180",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "181",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "182",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "183",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "184",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "185",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "186",
+      "email": "newuser@example.com",
+      "password": "newpassword123"
+    },
+    {
+      "id": "187",
+      "email": "aaa@.com",
+      "password": "123"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "2",
+      "bookId": "1",
+      "userId": "2",
+      "review": "Really enjoyed it!"
+    }
+  ]
+}
